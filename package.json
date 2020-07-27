@@ -1,0 +1,14 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "teaching myself how to write all types of tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dawson Hensel",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
